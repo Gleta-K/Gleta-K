@@ -4,6 +4,8 @@
 
 - <b>The Mobile Camp App</b>
   - [An interactive learning app](https://youtu.be/OZed_8KeF9Q?si=BggBM3dWBiykpPMD)
+- <b>Snake Game</b>
+  - [Fun interactive game](https://github.com/Gleta-K/Snake-game)
 
 <h2>📺 Popular YouTube Videos</h2>
 

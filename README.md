@@ -1,3 +1,4 @@
+![Banner](https://github.com/Gleta-K/G.K/blob/main/EAT%20SLEEP%20GAME%20REPEAT%20(1).gif)
 <h1>Hi, I'm Gleta! <br/><a href="https://github.com/Gleta-K">Programmer</a>, <a href="https://www.linkedin.com/in/gleta-kijogi/">Back-end Web Developer</a>, <a href="https://www.youtube.com/@CogniLeap">YouTuber</a></h1>
 
 <h2>👩🏾‍💻 Software Development Projects:</h2>

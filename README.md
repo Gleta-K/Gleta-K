@@ -19,8 +19,7 @@
 <ul>
   <li>
     <b><a href="https://youtu.be/OZed_8KeF9Q?si=BggBM3dWBiykpPMD">The Mobile Camp App</a></b><br/>
-    An interactive learning app that helps users engage with content dynamically and intuitively.  
-    <em>Tech Stack:</em> Python, Django REST Framework, SQLite
+    An interactive learning app that helps users engage with content dynamically and intuitively. 
   </li>
 
   <li>

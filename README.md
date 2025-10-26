@@ -1,34 +1,91 @@
-<p align="left">
-  </p>
-<h1>Hi, I'm Gleta! <br/><a href="https://github.com/Gleta-K">Programmer</a>, <a href="https://www.linkedin.com/in/gleta-kijogi/">Back-end Web Developer</a>, <a href="https://www.youtube.com/@CogniLeap">YouTuber</a></h1>
+<p align="left"></p>
 
-<h2>👩🏾‍💻 Software Development Projects:</h2>
+<h1>Hi, I'm <strong>Gleta!</strong> 👋<br/>
+  <a href="https://github.com/Gleta-K">Programmer</a> • 
+  <a href="https://www.linkedin.com/in/gleta-kijogi/">Back-end Web Developer</a> • 
+  <a href="https://www.youtube.com/@CogniLeap">YouTuber</a>
+</h1>
 
-- <b>The Mobile Camp App</b>
-  - [An interactive learning app](https://youtu.be/OZed_8KeF9Q?si=BggBM3dWBiykpPMD)
-- <b>Snake Game</b>
-  - [Fun interactive game that mimicks the famous childhood snake Xenzia game](https://github.com/Gleta-K/Snake-game)
+<p>
+  I’m a dedicated learner in <strong>ALX Backend Web Development</strong> with a passion for building systems that create real, positive impact.  
+  I believe software isn’t just about code — it’s about people, creativity, and problem-solving.  
+  My goal is to design backend solutions that make life simpler, smarter, and more connected.
+</p>
+
+---
+
+<h2>👩🏾‍💻 Software Development Projects</h2>
+
+<ul>
+  <li>
+    <b><a href="https://youtu.be/OZed_8KeF9Q?si=BggBM3dWBiykpPMD">The Mobile Camp App</a></b><br/>
+    An interactive learning app that helps users engage with content dynamically and intuitively.  
+    <em>Tech Stack:</em> Python, Django REST Framework, SQLite
+  </li>
+
+  <li>
+    <b><a href="https://github.com/Gleta-K/Snake-game">Snake Game</a></b><br/>
+    A fun interactive game that mimics the nostalgic <em>Snake Xenzia</em> experience, showcasing logic, structure, and creative coding.
+  </li>
+
+  <li>
+    <b>Secure Auth System</b><br/>
+    A JWT-based authentication backend with role-based access control and token management.  
+    <em>Focus:</em> Security, scalability, and clean API design.
+  </li>
+
+  <li>
+    <b>E-Commerce Backend API</b><br/>
+    A modular backend for managing products, orders, and payments using <strong>Django REST Framework</strong>.  
+    <em>Focus:</em> Database design and workflow automation.
+  </li>
+
+  <li>
+    <b>Weather & News Aggregator</b><br/>
+    REST API that aggregates live data from multiple public APIs, with caching and performance optimization.
+  </li>
+</ul>
+
+---
 
 <h2>📺 Popular YouTube Videos</h2>
 
-- [The Mobile Camp App](https://youtu.be/OZed_8KeF9Q?si=BggBM3dWBiykpPMD)
-- [Under The Spotlight EP 1(Lil Maina)](https://youtu.be/nwFJH0GqRS4?si=PDMjunkasfYy6O3w)
-- [Solo Insight EP 1: Maandamano](https://youtu.be/4ktAeconWVQ?si=Rhkx--xPhVPr04bP)
+<ul>
+  <li><a href="https://youtu.be/OZed_8KeF9Q?si=BggBM3dWBiykpPMD">The Mobile Camp App</a></li>
+  <li><a href="https://youtu.be/nwFJH0GqRS4?si=PDMjunkasfYy6O3w">Under The Spotlight EP 1 (Lil Maina)</a></li>
+  <li><a href="https://youtu.be/4ktAeconWVQ?si=Rhkx--xPhVPr04bP">Solo Insight EP 1: Maandamano</a></li>
+</ul>
 
-<h2> 🤳 Connect with me:</h2>
+---
 
-<a href="https://www.youtube.com/@CogniLeap">
-  <img src="https://img.icons8.com/ios-glyphs/50/FFFFFF/youtube-play.png" width="30px" />
-</a>
-<a href="https://x.com/Gleta_K">
-  <img src="https://img.icons8.com/ios-glyphs/50/FFFFFF/twitter.png" width="30px" />
-</a>
-<a href="https://www.linkedin.com/in/gleta-kijogi/">
-  <img src="https://img.icons8.com/ios-glyphs/50/FFFFFF/linkedin.png" width="30px" />
-</a>
-<a href="https://www.instagram.com/gleta_k/">
-  <img src="https://img.icons8.com/ios-glyphs/50/FFFFFF/instagram-new.png" width="30px" />
-</a>
+<h2>💡 About Me</h2>
+
+<p>
+  🎯 <strong>Goal:</strong> To work on real-world projects that combine creativity and functionality — from APIs to data-driven systems. <br/>
+  💻 <strong>Currently Learning:</strong> Python, Django, Docker, and RESTful API design. <br/>
+  🌱 <strong>Next Target:</strong> Building scalable backend architectures that serve thousands seamlessly. <br/>
+  ✨ <strong>Inspiration:</strong> Crafting software that makes someone’s day a little easier or more exciting.
+</p>
+
+---
+
+<h2>🤳 Connect with Me</h2>
+
+<p>
+  <a href="https://www.youtube.com/@CogniLeap">
+    <img src="https://img.icons8.com/ios-glyphs/50/FFFFFF/youtube-play.png" width="30px" />
+  </a>
+  <a href="https://x.com/Gleta_K">
+    <img src="https://img.icons8.com/ios-glyphs/50/FFFFFF/twitter.png" width="30px" />
+  </a>
+  <a href="https://www.linkedin.com/in/gleta-kijogi/">
+    <img src="https://img.icons8.com/ios-glyphs/50/FFFFFF/linkedin.png" width="30px" />
+  </a>
+  <a href="https://www.instagram.com/gleta_k/">
+    <img src="https://img.icons8.com/ios-glyphs/50/FFFFFF/instagram-new.png" width="30px" />
+  </a>
+</p>
+
 
 
 

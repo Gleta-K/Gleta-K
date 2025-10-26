@@ -28,27 +28,11 @@
     A fun interactive game that mimics the nostalgic <em>Snake Xenzia</em> experience, showcasing logic, structure, and creative coding.
   </li>
 
-  <li>
-    <b>Secure Auth System</b><br/>
-    A JWT-based authentication backend with role-based access control and token management.  
-    <em>Focus:</em> Security, scalability, and clean API design.
-  </li>
-
-  <li>
-    <b>E-Commerce Backend API</b><br/>
-    A modular backend for managing products, orders, and payments using <strong>Django REST Framework</strong>.  
-    <em>Focus:</em> Database design and workflow automation.
-  </li>
-
-  <li>
-    <b>Weather & News Aggregator</b><br/>
-    REST API that aggregates live data from multiple public APIs, with caching and performance optimization.
-  </li>
 </ul>
 
 ---
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 YouTube Videos</h2>
 
 <ul>
   <li><a href="https://youtu.be/OZed_8KeF9Q?si=BggBM3dWBiykpPMD">The Mobile Camp App</a></li>
@@ -62,7 +46,7 @@
 
 <p>
   🎯 <strong>Goal:</strong> To work on real-world projects that combine creativity and functionality — from APIs to data-driven systems. <br/>
-  💻 <strong>Currently Learning:</strong> Python, Django, Docker, and RESTful API design. <br/>
+  💻 <strong>Currently Learning:</strong> Python, Django and RESTful API design. <br/>
   🌱 <strong>Next Target:</strong> Building scalable backend architectures that serve thousands seamlessly. <br/>
   ✨ <strong>Inspiration:</strong> Crafting software that makes someone’s day a little easier or more exciting.
 </p>
